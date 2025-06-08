@@ -2,23 +2,23 @@ export const features = [
   {
     id: "0",
     icon: "/images/feature-1.png",
-    caption: "Easy integration",
-    title: "Work smarter not harder",
-    text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+    caption: "Setup gampang banget",
+    title: "Tampilkan karya Anda dengan mudah",
+    text: "Dengan platform kami, bikin website portofolio yang keren itu super simpel. Tools intuitif dan template yang bisa di-customize bikin proyek Anda tampil standout, hemat waktu dan tenaga!",
     button: {
       icon: "/images/magictouch.svg",
-      title: "Watch the demo",
+      title: "Cek Demonya",
     },
   },
   {
     id: "1",
     icon: "/images/feature-2.png",
-    caption: "Secure & trustworthy",
-    title: "Sleep easy, we got your back",
-    text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.",
+    caption: "Aman & terpercaya",
+    title: "Portofolio Anda, kami jaga",
+    text: "Keamanan karya Anda adalah prioritas kami. Dengan enkripsi canggih dan kontrol privasi yang ketat, portofolio Anda aman, jadi Anda bisa fokus berkreasi tanpa worry.",
     button: {
       icon: "/images/docs.svg",
-      title: "Read the docs",
+      title: "Lihat Catalog",
     },
   },
 ];
@@ -27,130 +27,130 @@ export const details = [
   {
     id: "0",
     icon: "/images/detail-1.png",
-    title: "AI automated video editing",
+    title: "Drag-and-drop builder portofolio",
   },
   {
     id: "1",
     icon: "/images/detail-2.png",
-    title: "Collaborate with your team",
+    title: "Share langsung ke klien",
   },
   {
     id: "2",
     icon: "/images/detail-3.png",
-    title: "Ultra fast cloud-engine",
+    title: "Hosting super cepat",
   },
   {
     id: "3",
     icon: "/images/detail-4.png",
-    title: "24 / 7 Customer support",
+    title: "Support kreator 24/7",
   },
 ];
 
 export const faq = [
   {
     id: "0",
-    question: "How easy is it to setup Xora?",
+    question: "Seberapa gampang sih setup website portofolio?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Super gampang! Dengan drag-and-drop builder dan template siap pakai, Anda bisa bikin portofolio profesional dalam hitungan menit, no coding needed.",
   },
   {
     id: "1",
-    question: "Can I integrate Xora with other platforms?",
+    question: "Bisa integrasi dengan platform lain gak?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Bisa banget! Platform kami support integrasi dengan social media, tools analitik, dan sistem manajemen klien biar portofolio Anda makin maksimal.",
   },
   {
     id: "2",
-    question: "How often do you add new content?",
+    question: "Seberapa sering template dan fitur di-update?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Kami rutin nambahin template baru dan fitur keren setiap bulan, biar portofolio Anda selalu fresh dan up-to-date.",
   },
   {
     id: "3",
-    question: "What your refund policy?",
+    question: "Apa kebijakan refund-nya?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Kami kasih garansi uang kembali 30 hari. Kalau portofolio Anda nggak memuaskan, hubungi kami untuk refund penuh, tanpa ribet.",
   },
   {
     id: "4",
-    question: "Do you have corporate plans?",
+    question: "Ada paket buat agency atau tim nggak?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Pasti ada! Paket Agency kami dirancang khusus buat tim, dengan fitur kolaborasi dan diskon per anggota tim.",
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
+    question: "Apa yang terjadi kalau storage saya penuh?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Tenang aja! Anda bisa upgrade plan kapan saja untuk tambahan storage, biar portofolio Anda bisa terus berkembang.",
   },
   {
     id: "6",
-    question: "Can I upgrade my plan?",
+    question: "Bisa upgrade plan di kemudian hari?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Bisa dong! Upgrade kapan saja dan dapatkan diskon prorata, biar Anda dapet value terbaik dari langganan Anda.",
   },
   {
     id: "7",
-    question: "How do I invite my team?",
+    question: "Gimana caranya share portofolio ke klien?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Gampang! Kami punya opsi sharing instan lewat link custom, email, atau social media, biar karya Anda cepat sampai ke klien.",
   },
   {
     id: "8",
-    question: "Do you offer training for individuals and teams?",
+    question: "Apa ada bantuan untuk kustomisasi portofolio?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Ada banget! Tim support 24/7 dan panduan lengkap kami siap bantu Anda kustom portofolio sesuai gaya Anda.",
   },
   {
     id: "9",
-    question: "I’m locked out of my account what do I do?",
+    question: "Kalau lupa akses akun, apa yang harus dilakukan?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Hubungi tim support 24/7 kami, dan kami akan bantu Anda balik ke portofolio Anda dengan cepat dan mudah.",
   },
 ];
 
 export const plans = [
   {
     id: "0",
-    title: "Core",
-    priceMonthly: 19,
-    priceYearly: 12,
-    caption: "Best for solo creators",
+    title: "Starter",
+    priceMonthly: 50,
+    priceYearly: 70,
+    caption: "Cocok buat kreator individu",
     features: [
-      "100MB Cloud storage",
-      "100+ prompt templates",
-      "5 projects",
-      "24/7 support",
+      "100MB storage portofolio",
+      "10+ template customizable",
+      "3 proyek portofolio",
+      "Support 24/7",
     ],
     icon: "/images/circle.svg",
     logo: "/images/plan-1.png",
   },
   {
     id: "1",
-    title: "Overdrive",
-    priceMonthly: 79,
-    priceYearly: 59,
-    caption: "Most popular plan",
+    title: "Pro",
+    priceMonthly: 100,
+    priceYearly: 120,
+    caption: "Pilihan favorit profesional",
     features: [
-      "All Starter features",
-      "1TB additional storage",
-      "Unlimited projects",
-      "Analytics",
+      "Semua fitur Starter",
+      "Custom Domain Support",
+      "Proyek portofolio unlimited",
+      "Analitik klien",
     ],
     icon: "/images/triangle.svg",
     logo: "/images/plan-2.png",
   },
   {
     id: "2",
-    title: "Team",
-    priceMonthly: 39,
-    priceYearly: 29,
-    caption: "Exclusively for teams",
+    title: "Agency",
+    priceMonthly: 150,
+    priceYearly: 170,
+    caption: "Khusus buat tim kreatif",
     features: [
-      "All Overdrive features",
-      "10TB additional storage",
-      "50% off per member",
-      "Real-time collaboration",
+      "Semua fitur Pro",
+      "Branded Design Tools",
+      "Diskon 50% per anggota tim",
+      "Kolaborasi real-time",
     ],
     icon: "/images/hexagon.svg",
     logo: "/images/plan-3.png",
@@ -161,88 +161,50 @@ export const testimonials = [
   {
     id: "0",
     name: "Jessica Saunders",
-    role: "Globalnomads",
+    role: "Desainer Freelance",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
-      "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+      "Support-nya luar biasa! Mereka bantu saya setup portofolio dalam waktu singkat, dan hasilnya super keren!",
   },
   {
     id: "1",
     name: "Mark Erixon",
-    role: "Vid capital intl",
+    role: "Creative Director",
     avatarUrl: "/images/testimonials/mark-erixon.png",
     comment:
-      "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
+      "Awalnya ragu, tapi platform ini bikin presentasi ke klien jadi jauh lebih mudah. Game-changer banget!",
   },
   {
     id: "2",
     name: "Melanie Hurst",
-    role: "Cyberleap",
+    role: "Fotografer",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
-      "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
+      "Bikin portofolio di sini gampang banget. Template-nya kece, dan klien saya suka banget sama tampilannya.",
   },
   {
     id: "3",
     name: "Alicia Barker",
-    role: "Cyberleap",
+    role: "Graphic Artist",
     avatarUrl: "/images/testimonials/alicia-barker.png",
     comment:
-      "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
+      "Fitur analitik bantu saya tahu apa yang disukai klien dari karya saya. Penting banget buat keputusan kreatif!",
   },
   {
     id: "4",
     name: "Becky Snider",
-    role: "Floclips",
+    role: "Web Developer",
     avatarUrl: "/images/testimonials/becky-snider.png",
     comment:
-      "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
+      "Pindah ke platform ini bulan lalu, dan portofolio saya jadi jauh lebih profesional. Klien impressed!",
   },
   {
     id: "5",
     name: "Jim Bradley",
-    role: "Vid capital intl",
+    role: "Pemilik Agency",
     avatarUrl: "/images/testimonials/jim-bradley.png",
     comment:
-      "The efficiency boost is undeniable. This platform has transformed our workflow, forever.",
-  },
-];
-
-export const logos = [
-  {
-    id: "0",
-    title: "Afterpay",
-    url: "/images/logos/afterpay.svg",
-    width: 156,
-    height: 48,
-  },
-  {
-    id: "1",
-    title: "Amplitude",
-    url: "/images/logos/amplitude.svg",
-    width: 194,
-    height: 48,
-  },
-  {
-    id: "2",
-    title: "Sonos",
-    url: "/images/logos/sonos.svg",
-    width: 115,
-    height: 48,
-  },
-  {
-    id: "3",
-    title: "Maze",
-    url: "/images/logos/maze.svg",
-    width: 142,
-    height: 48,
-  },
-  {
-    id: "4",
-    title: "Drips",
-    url: "/images/logos/drips.svg",
-    width: 77,
-    height: 48,
+      "Platform ini bikin workflow tim kami jauh lebih smooth. Portofolio jadi lebih rapi dan gampang dikelola.",
   },
 ];
 

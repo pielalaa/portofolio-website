@@ -98,41 +98,41 @@
 
   /* END of Typography */
   /* START of Gradients */
-  .g1 {
-    background: linear-gradient(rgba(196, 203, 245, 0.5), transparent);
-  }
+.g1 {
+  background: linear-gradient(rgba(235, 194, 255, 0.4), transparent);
+}
 
-  .g2 {
-    background: linear-gradient(#3062a3, #19549f);
-  }
+.g2 {
+  background: linear-gradient(#a34dd8, #d04fff);
+}
 
-  .g3 {
-    background: linear-gradient(#3c52d9, #0c1838);
-  }
+.g3 {
+  background: linear-gradient(#b94ae5, #4a1a6b);
+}
 
-  .g4 {
-    background: linear-gradient(#253575, #162561);
-  }
+.g4 {
+  background: linear-gradient(#6a2d99, #4f1d7a);
+}
 
-  .g5 {
-    background: linear-gradient(#334679, #162561);
-  }
+.g5 {
+  background: linear-gradient(#8f4fc3, #4f1d7a);
+}
 
-  .g6 {
-    background: linear-gradient(#334679, #0c1838);
-  }
+.g6 {
+  background: linear-gradient(#8f4fc3, #2a0e43);
+}
 
-  .g7 {
-    background: linear-gradient(#1b275a, #0e1434);
-  }
+.g7 {
+  background: linear-gradient(#4a1a6b, #2a0e43);
+}
 
-  .g8 {
-    background: linear-gradient(to right, transparent, #2ef2ff, transparent);
-  }
+.g8 {
+  background: linear-gradient(to right, transparent, #f065ff, transparent);
+}
 
-  .g9 {
-    background: linear-gradient(#080d27, transparent);
-  }
+.g9 {
+  background: linear-gradient(#2a0e43, transparent);
+}
 
   /* END of Gradients */
   /* START of Common */
